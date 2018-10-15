@@ -8,7 +8,7 @@
  */
 
 /*
- * Back-end - Setting 
+ * Back-end - Setting  
  */
 add_action('admin_menu', 'admin_to_menu_nmqc');
 function admin_to_menu_nmqc(){
@@ -16,7 +16,8 @@ function admin_to_menu_nmqc(){
 }
 function nmqc_admin_menu(){
     echo 110;
-    echo 113;   
+    echo 113;
+    echo 111;
 } 
 
 /*/
