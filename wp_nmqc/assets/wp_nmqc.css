@@ -1,0 +1,32 @@
+/*
+NOVINMOHTAVA - NEWS SERVICE CSS FILE
+*/
+    .update-nag{
+        display: none !important;
+    }
+    .nmc-all {
+    direction: ltr;
+    text-align: right;
+    background-color: #fff;
+    margin-top: 17px;
+    padding: 5px 30px;
+    display: block;
+    box-shadow: 0px 3px 5px 0px #044;
+    width: 80%;
+    min-width: 500px;
+}
+  .nmc-all p.r {
+direction: rtl;
+}
+.nmcshortcodes p {
+    display: inline-block;
+    background-color: #f3f5f5;
+    min-width: 322px;
+    text-align: center !important;
+    padding: 12px;
+    margin: 5px 5px;
+}
+  .nmc-all p {
+ direction: ltr;
+ text-align: right
+}
