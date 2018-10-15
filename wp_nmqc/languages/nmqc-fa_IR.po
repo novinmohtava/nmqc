@@ -1,0 +1,7 @@
+
+#: inc/wp-jalali-admin.php:94
+#, php-format
+#@ ztjalali
+msgid "WP Jalali successful installed. please check %soptions%s"
+msgstr "افزونه وردپرس فارسی با موفقیت نصب شد. لطفا %sتنظیمات%s را بررسی نمایید."
+
